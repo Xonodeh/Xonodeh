@@ -1,6 +1,6 @@
 # Bonjour, je suis Nael 👋
 
-Je suis un étudiant en alternance passionné par le développement informatique. Actuellement en BTS SIO SLAM, je suis également en train de préparer mon épreuve de portfolio. J'aime résoudre des problèmes complexes, apprendre de nouvelles technologies et contribuer à des projets intéressants.
+Je suis un étudiant en alternance passionné par le développement informatique. Actuellement en BTS SIO SLAM, je suis également en train de préparer mon épreuve de portfolio. J'aime apprendre de nouvelles technologies et contribuer à des projets intéressants.
 
 ### Mes compétences
 
