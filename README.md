@@ -6,7 +6,7 @@ Je suis un étudiant en alternance passionné par le développement informatique
 
 - **Développement web** : PHP, JavaScript, HTML, CSS
 - **Développement mobile** : Flutter et DART
-- **Développement client lourd : C# (.NET Framework)
+- **Développement client lourd** : C# (.NET Framework)
 - **Bases de données** : MySQL, SQL
 - **Outils** : Visual Studio, Visual Studio Code, Github, Jetbrains, phpMyAdmin, Figma 
 - **Systèmes d'exploitation** : MacOS, Linux, Windows
