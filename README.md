@@ -14,7 +14,7 @@ Je suis un étudiant en alternance passionné par le développement informatique
 ### Projets récents
 
 - **[Bot Discord](https://github.com/nael/BotDiscord)** : Un bot Discord qui sélectionne au hasard des personnes pour effectuer une tâche spécifique via une commande.
-- **[Application de réservation en ligne de trajets maritime (https://github.com/nael/MarieTeam)** : Site web servant à reserver un trajet maritime 
+- **[Application de réservation en ligne de trajets maritime] (https://github.com/nael/MarieTeam)** : Site web servant à reserver un trajet maritime 
 - **[Site Web de présentation](https://github.com/nael/MarieTeam)** : Mon Portfolio en vue de l'épreuve E4 du BTS SIO SLAM
 
 ### À propos de moi.
