@@ -24,18 +24,6 @@ Je suis étudiant à Gaston Berger et en même temps en alternance au CHU de Lil
 
 - 📧 Email : [haddadi.nael@gmail.com](mailto:haddadi.nael@gmail.com)
 
-Merci d'avoir pris le temps de visiter mon profil ! N'hésite pas à me contacter si tu veux collaborer sur un projet ou si tu as des questions !
+Merci d'avoir pris le temps de visiter mon profil !
+N'hésite pas à me contacter si tu veux collaborer sur un projet ou si tu as des questions !
 
-**Xonodeh/Xonodeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning Symphony
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
