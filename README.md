@@ -1,6 +1,6 @@
 # Bonjour👋
 
-Je suis Nael,  un étudiant en alternance passionné par le développement informatique. Actuellement en BTS SIO SLAM, je suis également en train de préparer mon épreuve de portfolio. J'aime apprendre de nouvelles technologies et contribuer à des projets intéressants.
+Je suis Nael,  un étudiant en alternance passionné par le développement informatique. Actuellement en BTS SIO SLAM, je serais en première année du cycle ingénieur du numérique a l'école Junia ISEN à Lille ! 
 
 ### Mes compétences
 
@@ -15,7 +15,7 @@ Je suis Nael,  un étudiant en alternance passionné par le développement infor
 
 - **[Bot Discord](https://github.com/Xonodeh/BotDiscord)** : Un bot Discord qui sélectionne au hasard des personnes pour effectuer une tâche spécifique via une commande.
 - **[Application de réservation en ligne de trajets maritime](https://github.com/Xonodeh/MarieTeam)** : Site web servant à reserver un trajet maritime 
-- **[Site Web de présentation](https://github.com/Xonodeh/MarieTeam)** : Mon Portfolio en vue de l'épreuve E4 du BTS SIO SLAM
+- **[Site Web de présentation](https://github.com/Xonodeh/MarieTeam)** : Mon Portfolio en vue de l'épreuve E5 du BTS SIO SLAM
 
 ### À propos de moi.
 Je suis étudiant à Gaston Berger et en même temps en alternance au CHU de Lille 👋
