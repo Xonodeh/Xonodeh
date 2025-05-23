@@ -4,7 +4,7 @@ Je suis Nael,  un étudiant en alternance passionné par le développement infor
 
 ### Mes compétences
 
-- **Développement web** : PHP, JavaScript, HTML, CSS
+- **Développement web** : React, PHP, JavaScript, 
 - **Développement mobile** : Flutter et DART
 - **Développement client lourd** : C# (.NET Framework)
 - **Bases de données** : MySQL, SQL
