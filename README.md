@@ -1,6 +1,6 @@
 # Bonjour👋
 
-Je suis Nael,  un étudiant en alternance passionné par le développement informatique. Diplômé d'un BTS SIO SLAM, je suis actuellement étudiant a Junia ISEN Lille !
+Je suis Nael,  un étudiant en alternance passionné par le développement informatique. Diplômé d'un BTS SIO SLAM, je suis actuellement étudiant a Junia ISEN Lille en cycle ingénieur du numérique !
 
 ### Mes compétences
 
