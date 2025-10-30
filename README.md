@@ -1,6 +1,6 @@
 # Bonjour👋
 
-Je suis Nael,  un étudiant en alternance passionné par le développement informatique. Actuellement en BTS SIO SLAM, je serais en première année du cycle ingénieur du numérique a l'école Junia ISEN à Lille ! 
+Je suis Nael,  un étudiant en alternance passionné par le développement informatique. Diplômé d'un BTS SIO SLAM, je suis actuellement étudiant a Junia ISEN Lille !
 
 ### Mes compétences
 
@@ -18,8 +18,7 @@ Je suis Nael,  un étudiant en alternance passionné par le développement infor
 - **[Site Web de présentation](https://github.com/Xonodeh/MarieTeam)** : Mon Portfolio en vue de l'épreuve E5 du BTS SIO SLAM
 
 ### À propos de moi.
-Je suis étudiant à Gaston Berger et en même temps en alternance au CHU de Lille 👋
-
+Je suis étudiant en cycle ingénieur du numérique a Junia ISEN.
 ### Contact
 
 - 📧 Email : [haddadi.nael@gmail.com](mailto:haddadi.nael@gmail.com)
