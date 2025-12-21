@@ -5,10 +5,10 @@ Je suis Nael,  un étudiant en alternance passionné par le développement infor
 ### Mes compétences
 
 - **Développement web** : React, PHP, JavaScript, 
-- **Développement mobile** : Flutter et DART
+- **Développement mobile** : Flutter et Swift
 - **Développement client lourd** : C# (.NET Framework)
 - **Bases de données** : MySQL, SQL
-- **Outils** : Visual Studio, Visual Studio Code, Github, Jetbrains, phpMyAdmin, Figma 
+- **Outils** : Visual Studio, Visual Studio Code, XCode, Github, Jetbrains, phpMyAdmin, Figma 
 - **Systèmes d'exploitation** : MacOS, Linux, Windows
 
 ### Projets récents
