@@ -1,6 +1,6 @@
 # Bonjour👋
 
-Je suis Nael,  un étudiant en alternance passionné par le développement informatique. Diplômé d'un BTS SIO SLAM, je suis actuellement étudiant a Junia ISEN Lille en cycle ingénieur du numérique !
+Je suis Nael,  un étudiant en alternance passionné par le développement fullstack. Diplômé d'un BTS SIO SLAM, je suis actuellement étudiant a l'IPSSI Lille en 3ème année de Bachelor Dev & DevOps !
 
 ### Mes compétences
 
@@ -17,8 +17,7 @@ Je suis Nael,  un étudiant en alternance passionné par le développement infor
 - **[Application de réservation en ligne de trajets maritime](https://github.com/Xonodeh/MarieTeam)** : Site web servant à reserver un trajet maritime 
 - **[Site Web de présentation](https://github.com/Xonodeh/MarieTeam)** : Mon Portfolio en vue de l'épreuve E5 du BTS SIO SLAM
 
-### À propos de moi.
-Je suis étudiant en cycle ingénieur du numérique a Junia ISEN.
+
 ### Contact
 
 - 📧 Email : [haddadi.nael@gmail.com](mailto:haddadi.nael@gmail.com)
