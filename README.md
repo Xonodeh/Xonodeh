@@ -15,7 +15,7 @@ Je suis Nael,  un étudiant en alternance passionné par le développement fulls
 
 - **[Bot Discord](https://github.com/Xonodeh/BotDiscord)** : Un bot Discord qui sélectionne au hasard des personnes pour effectuer une tâche spécifique via une commande.
 - **[Application de réservation en ligne de trajets maritime](https://github.com/Xonodeh/MarieTeam)** : Site web servant à reserver un trajet maritime 
-- **[Site Web de présentation](https://github.com/Xonodeh/MarieTeam)** : Mon Portfolio en vue de l'épreuve E5 du BTS SIO SLAM
+- **[Site Web de présentation](https://github.com/Xonodeh/Portfolio-REACT)** : Mon Portfolio en REACT & TAILWIND
 
 
 ### Contact
