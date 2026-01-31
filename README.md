@@ -1,6 +1,6 @@
 # Bonjour👋
 
-Je suis Nael,  un étudiant en alternance passionné par le développement fullstack. Diplômé d'un BTS SIO SLAM, je suis actuellement étudiant a l'IPSSI Lille en 3ème année de Bachelor Dev & DevOps !
+Je suis Nael,  un étudiant en alternance passionné par le développement fullstack. Diplômé d'un BTS SIO SLAM, je suis serai étudiant a CESI, école d'ingénieurs Lille en 3ème année de Bachelor Dev & DevOps en septembre 2026 !
 
 ### Mes compétences
 
