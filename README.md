@@ -6,7 +6,7 @@
 </p>
 
 ### 👨‍💻 About Me
-Je suis un futur ingénieur passionné par l'architecture logicielle et le DevOps. Actuellement **admissible** au Bachelor Concepteur Développeur d'Applications (CDA) chez **CESI Lille** pour la rentrée 2026.
+Je suis un futur ingénieur passionné par l'architecture logicielle et le DevOps. Diplômé d'un BTS SIO SLAM avec deux ans d'alternance au CHU de Lille et actuellement **admissible** en 3ème année de Bachelor Concepteur Développeur d'Applications (CDA) chez **CESI Lille** pour la rentrée 2026.
 
 - 🚀 Spécialisation prévue : **Cybersécurité** (4ème & 5ème année).
 - 🍎 Passionné par l'écosystème Apple et le développement **Swift**.
@@ -28,8 +28,8 @@ Je suis un futur ingénieur passionné par l'architecture logicielle et le DevOp
 ### 📈 GitHub Activities
 
 <p align="center">
-  <img src="https://github-readme-stats-one-pi.vercel.app/api?username=Xonodeh&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Xonodeh&layout=compact&theme=tokyonight&hide=html" width="48%" />
+  <img src="https://github-readme-stats-one-pi.vercel.app/api?username=Xonodeh&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Xonodeh&layout=compact&theme=tokyonight&hide=html&height=180" height="180" />
 </p>
 ---
 
