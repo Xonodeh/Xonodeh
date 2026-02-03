@@ -1,6 +1,6 @@
 # Hello World, I'm Nael 👋 
 
-p align="left">
+<p align="left">
 <img src="https://img.shields.io/badge/Status-Admissible%20%40%20CESI%20Lille%20--%20%C3%89cole%20d'Ing%C3%A9nieurs-FFD700?style=for-the-badge&logo=education&logoColor=black" />
 <img src="https://img.shields.io/badge/Focus-DevOps%20%26%20Cyber-blue?style=for-the-badge&logo=fortinet&logoColor=white" />
 </p>
