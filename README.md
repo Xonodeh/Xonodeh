@@ -1,12 +1,12 @@
-# Hi there, I'm Nael 👋 
+# Hello World, I'm Nael 👋 
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Admissible%20@CESI-Lille-Ecole-D'Ingénieurs-FFD700?style=for-the-badge&logo=education&logoColor=black" />
-  <img src="https://img.shields.io/badge/Focus-DevOps%20%26%20Cyber-blue?style=for-the-badge&logo=fortinet&logoColor=white" />
+p align="left">
+<img src="https://img.shields.io/badge/Status-Admissible%20%40%20CESI%20Lille%20--%20%C3%89cole%20d'Ing%C3%A9nieurs-FFD700?style=for-the-badge&logo=education&logoColor=black" />
+<img src="https://img.shields.io/badge/Focus-DevOps%20%26%20Cyber-blue?style=for-the-badge&logo=fortinet&logoColor=white" />
 </p>
 
 ### 👨‍💻 About Me
-Je suis un futur ingénieur passionné par l'architecture logicielle et l'automatisation. Actuellement **admissible** au Bachelor Concepteur Développeur d'Applications (CDA) chez **CESI Lille** pour la rentrée 2026.
+Je suis un futur ingénieur passionné par l'architecture logicielle et le DevOps. Actuellement **admissible** au Bachelor Concepteur Développeur d'Applications (CDA) chez **CESI Lille** pour la rentrée 2026.
 
 - 🚀 Spécialisation prévue : **Cybersécurité** (4ème & 5ème année).
 - 🍎 Passionné par l'écosystème Apple et le développement **Swift**.
@@ -18,8 +18,8 @@ Je suis un futur ingénieur passionné par l'architecture logicielle et l'automa
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
 | **Mobile** | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
 | **Database** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=sqlite&logoColor=white) |
 | **Tools** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
