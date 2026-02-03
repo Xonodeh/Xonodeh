@@ -29,10 +29,9 @@ Je suis un futur ingénieur passionné par l'architecture logicielle et le DevOp
 ### 📈 GitHub Activities
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xonodeh&show_icons=true&theme=tokyonight&count_private=true" width="48%" alt="Nael's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xonodeh&layout=compact&theme=tokyonight&hide=html" width="48%" alt="Nael's Top Languages" />
+  <img src="https://github-readme-stats-one-pi.vercel.app/api?username=Xonodeh&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats-one-pi.vercel.app/api/top-langs/?username=Xonodeh&layout=compact&theme=tokyonight&hide=html" width="48%" />
 </p>
-
 ---
 
 ### 🌟 Featured Projects
