@@ -29,8 +29,8 @@ Je suis un futur ingénieur passionné par l'architecture logicielle et le DevOp
 ### 📈 GitHub Activities
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Xonodeh&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xonodeh&layout=compact&theme=tokyonight&hide=html" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Xonodeh&show_icons=true&theme=tokyonight&count_private=true" width="48%" alt="Nael's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xonodeh&layout=compact&theme=tokyonight&hide=html" width="48%" alt="Nael's Top Languages" />
 </p>
 
 ---
@@ -38,8 +38,8 @@ Je suis un futur ingénieur passionné par l'architecture logicielle et le DevOp
 ### 🌟 Featured Projects
 
 * **[Portfolio 2026](https://haddadi-nael.vercel.app/)** : Mon espace personnel minimaliste sous React & Framer Motion.
-* **[Nexor App](https://github.com/Xonodeh/Nexor)** : Application de gestion développée en C# / .NET.
-* **[Swift Student Challenge](https://github.com/Xonodeh)** : Projets interactifs pour l'écosystème Apple.
+* **[Nexor App](https://github.com/Wishicey/Nexor)** : Application de pari eSports développée en C# / .NET MAUI.
+* **[Swift Student Challenge](https://github.com/Xonodeh)** : Challenge étudiant organisé par Apple.
 
 ---
 
