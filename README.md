@@ -1,7 +1,7 @@
 # Hi there, I'm Nael 👋 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-Admissible%20@CESI-FFD700?style=for-the-badge&logo=education&logoColor=black" />
+  <img src="https://img.shields.io/badge/Status-Admissible%20@CESI-Lille-Ecole-D'Ingénieurs-FFD700?style=for-the-badge&logo=education&logoColor=black" />
   <img src="https://img.shields.io/badge/Focus-DevOps%20%26%20Cyber-blue?style=for-the-badge&logo=fortinet&logoColor=white" />
 </p>
 
