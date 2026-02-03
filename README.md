@@ -25,12 +25,11 @@ Je suis un futur ingénieur passionné par l'architecture logicielle et le DevOp
 | **Tools** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
 
 ---
-
 ### 📈 GitHub Activities
 
 <p align="center">
   <img src="https://github-readme-stats-one-pi.vercel.app/api?username=Xonodeh&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats-one-pi.vercel.app/api/top-langs/?username=Xonodeh&layout=compact&theme=tokyonight&hide=html" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xonodeh&layout=compact&theme=tokyonight&hide=html&langs_count=8" width="48%" />
 </p>
 ---
 
