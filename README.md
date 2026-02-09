@@ -28,7 +28,6 @@ Je suis un futur ingénieur passionné par l'architecture logicielle et le DevOp
 ### 📈 GitHub Activities
 
 <p align="center">
-  <img src="https://github-readme-stats-one-pi.vercel.app/api?username=Xonodeh&show_icons=true&theme=tokyonight" height="180" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Xonodeh&layout=compact&theme=tokyonight&hide=html&height=180" height="180" />
 </p>
 
