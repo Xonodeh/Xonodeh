@@ -36,7 +36,7 @@ Je suis un futur ingénieur passionné par l'architecture logicielle et le DevOp
 
 * **[Portfolio 2026](https://haddadi-nael.vercel.app/)** : Mon espace personnel minimaliste sous React & Framer Motion.
 * **[Nexor App](https://github.com/Wishicey/Nexor)** : Application de pari eSports développée en C# / .NET MAUI.
-* **[Swift Student Challenge](https://github.com/Xonodeh)** : Challenge étudiant organisé par Apple.
+* **[Swift Student Challenge](https://github.com/Xonodeh/CyberPrivacy)** : Challenge étudiant organisé par Apple.
 
 ---
 
