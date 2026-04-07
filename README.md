@@ -5,9 +5,8 @@
 </p>
 
 ### 👨‍💻 About Me
-Je suis un futur ingénieur passionné par l'architecture logicielle et le DevOps. Diplômé d'un BTS SIO SLAM avec deux ans d'alternance au CHU de Lille et actuellement **admissible** en 3ème année de Bachelor Concepteur Développeur d'Applications (CDA) chez **CESI Lille** pour la rentrée 2026.
+Je suis un futur ingénieur passionné par l'architecture logicielle et le DevOps. Diplômé d'un BTS SIO SLAM avec deux ans d'alternance au CHU de Lille.
 
-- 🚀 Spécialisation prévue : **Cybersécurité** (4ème & 5ème année).
 - 🍎 Passionné par l'écosystème Apple et le développement **Swift**.
 - 🛠 Actuellement en train de build sur mon **MacBook M3**.
 
